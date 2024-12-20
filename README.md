@@ -13,3 +13,8 @@ to set-up virtual envirnment-
 the dependecies are managed by poetry
 
 `pip3 install poetry`
+
+
+## to run the project
+
+`fastapi dev main.py`
